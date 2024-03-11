@@ -8,9 +8,9 @@
 
             while (K < INDICE)
             {
-                K = K + 1;
+                K += 1;
 
-                SOMA = SOMA + K;
+                SOMA += K;
             }
 
             Console.WriteLine($"O valor da variavel soma é: {SOMA}");

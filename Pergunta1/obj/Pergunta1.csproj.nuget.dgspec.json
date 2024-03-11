@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta1\\Pergunta1.csproj": {}
+    "C:\\Users\\maico\\Documents\\Target_\\Target_Sistemas-CodigoFonte\\Pergunta1\\Pergunta1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta1\\Pergunta1.csproj": {
+    "C:\\Users\\maico\\Documents\\Target_\\Target_Sistemas-CodigoFonte\\Pergunta1\\Pergunta1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta1\\Pergunta1.csproj",
+        "projectUniqueName": "C:\\Users\\maico\\Documents\\Target_\\Target_Sistemas-CodigoFonte\\Pergunta1\\Pergunta1.csproj",
         "projectName": "Pergunta1",
-        "projectPath": "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta1\\Pergunta1.csproj",
+        "projectPath": "C:\\Users\\maico\\Documents\\Target_\\Target_Sistemas-CodigoFonte\\Pergunta1\\Pergunta1.csproj",
         "packagesPath": "C:\\Users\\maico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta1\\obj\\",
+        "outputPath": "C:\\Users\\maico\\Documents\\Target_\\Target_Sistemas-CodigoFonte\\Pergunta1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maico\\AppData\\Roaming\\NuGet\\NuGet.Config"
