@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKYb6P1v2MvnrhIP7QLNIUzFP5YWrtRv2HBH4rKzMd6Uhx/E8EROdr2d21xgGnYajqwiMrCM7YNw54CfPy5qYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maico\\Documents\\TargetSistemas\\Pergunta3\\Pergunta3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\maico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\bin\Debug\net7.0\Pergunta5.exe
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\bin\Debug\net7.0\Pergunta5.deps.json
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\bin\Debug\net7.0\Pergunta5.runtimeconfig.json
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\bin\Debug\net7.0\Pergunta5.dll
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\bin\Debug\net7.0\Pergunta5.pdb
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.AssemblyInfo.cs
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.dll
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\refint\Pergunta5.dll
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.pdb
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\Pergunta5.genruntimeconfig.cache
+C:\Users\maico\Documents\TargetSistemas\Pergunta5\obj\Debug\net7.0\ref\Pergunta5.dll
